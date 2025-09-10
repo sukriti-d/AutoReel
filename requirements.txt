@@ -1,0 +1,11 @@
+streamlit
+gTTS
+moviepy
+Pillow
+requests
+python-dotenv
+tqdm
+torch
+torchvision
+torchaudio
+sentence-transformers
