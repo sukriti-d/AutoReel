@@ -24,10 +24,9 @@ AutoReel is an AI-driven system that automatically converts blog text or short a
 - **APIs:** Pexels API (for fetching stock media)  
 - **Hardware:** NVIDIA GPU acceleration supported  
 
+<img width="1082" height="858" alt="Screenshot 2025-09-10 051419" src="https://github.com/user-attachments/assets/193d7c18-2f00-4bd7-a1f0-80454f0db37e" />
 
-<img width="1896" height="901" alt="Screenshot 2025-09-10 041832" src="https://github.com/user-attachments/assets/196b9063-abe2-4c5b-a590-e30c1f983fa5" />
-<img width="1050" height="702" alt="Screenshot 2025-09-10 051409" src="htt<img width="1082" height="858" alt="Screenshot 2025-09-10 051419" src="https://github.com/user-attachments/assets/4f213c9f-1345-4f42-9c25-e1054f5a61d8" />
-ps://github.com/user-attachments/assets/86598074-9183-4d00-b148-811635ec34cb" />
+
 ## 🚀 Getting Started  
 
 ### 1. Clone the repo  
@@ -99,3 +98,4 @@ Output: A short-form video reel with narration, captions, and matching visuals.
 🤝 Contributing
 
 Pull requests are welcome! If you’d like to add new features (e.g., support for more video sources, better TTS voices), feel free to open an issue first to discuss your idea.
+
